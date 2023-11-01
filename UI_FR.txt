@@ -31,4 +31,5 @@ UI_FR = {
 	UI_strengthRequire = "Pas assez de force (Force < 4)",
 	UI_enduranceRequireCar = "Je n'arrive pas a crocheter !<br>J'ai :<br>un effort intense",
 	UI_strengthRequireCar = "Impossible de crocheter !<br>Pas assez de force...<br>(Force < 4)",
+	UI_zRe_isLocked = "Je ne peux pas faire ça ! Parce que c'est verrouillé !",
 }
